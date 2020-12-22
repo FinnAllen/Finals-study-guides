@@ -41,7 +41,7 @@ into one sorted list, where nn is the total number of elements in all
 the input lists. Hint: Use a min-heap for k-way merging.)
 
 
-#HW 2
+# HW 2
 
 **§2.3**
 
@@ -110,7 +110,7 @@ assuming that all elements are distinct.
 Give a simple, linear-time algorithm that solves the selection problem for an
 arbitrary order statistic. (partition array based on median)
 
-#HW 3
+# HW 3
 
 **8.1**
 
@@ -159,7 +159,7 @@ arbitrary order statistic. (partition array based on median)
 
 
 
-#HW 4
+# HW 4
 
 **15.4**
 
@@ -200,7 +200,7 @@ The professor's goal is to minimize the number of water stops along his route ac
 
 5) Prove that if we order the characters in an alphabet so that their frequencies are monotonically decreasing, then there exists an optimal code whose codeword lengths are monotonically increasing.
 
-#HW 5
+# HW 5
 
 **§16.3**
 
@@ -220,7 +220,7 @@ Can you generalize your answer to find the optimal code when the frequencies are
 9) Show that no compression scheme can expect to compress a file of randomly chosen 8-bit characters by even a single bit. (Hint: Compare the number of possible files with the number of possible encoded files.)
 
 
-#HW 6
+# HW 6
 
 **§22.1**
 
@@ -287,26 +287,4 @@ Can you generalize your answer to find the optimal code when the frequencies are
 
 
 4) As it appears above, the Floyd-Warshall algorithm requires Θ(n^3) space, since we compute d_{ij}^(k) for i, j, k = 1, 2 , … , n. Show that the following procedure, which simply drops all the superscripts, is correct, and thus only Θ(n^2) is required. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
